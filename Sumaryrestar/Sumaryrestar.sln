@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sumar()", "Sumar()\Sumar().csproj", "{154430F9-AC8B-45C1-B20C-C784ED0C4572}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sumar()", "Sumar()\Sumar().csproj", "{154430F9-AC8B-45C1-B20C-C784ED0C4572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSumar(1)", "UnitTestSumar(1)\UnitTestSumar(1).csproj", "{904F0812-D6E4-4597-9235-F7366BB23F7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{154430F9-AC8B-45C1-B20C-C784ED0C4572}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{154430F9-AC8B-45C1-B20C-C784ED0C4572}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{154430F9-AC8B-45C1-B20C-C784ED0C4572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904F0812-D6E4-4597-9235-F7366BB23F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904F0812-D6E4-4597-9235-F7366BB23F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904F0812-D6E4-4597-9235-F7366BB23F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904F0812-D6E4-4597-9235-F7366BB23F7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
